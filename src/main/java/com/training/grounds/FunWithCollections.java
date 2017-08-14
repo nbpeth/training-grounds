@@ -29,7 +29,7 @@ public class FunWithCollections {
     }
 
     public List<Object> filterList(){
-
+        return null;
     }
 
 }
